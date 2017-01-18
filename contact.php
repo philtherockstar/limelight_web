@@ -23,6 +23,8 @@ $name     = $ll_data['name'];
 $email    = $ll_data['email'];
 $subject  = $ll_data['subject'];
 $comments = $ll_data['comments'];
+$captcha=$_POST['g-recaptcha-response'];
+
 
 if(trim($name) == '') {
 	echo '<div class="error_message">Attention! You must enter your name.</div>';
@@ -42,6 +44,18 @@ if(trim($subject) == '') {
 	echo '<div class="error_message">Attention! Please enter your message.</div>';
 	exit();
 } 
+
+if(!$captcha){
+    echo '<div class="error_message">Please check the the captcha form.</div>';
+    exit();
+}
+
+$response=json_decode(file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=6LeKNhIUAAAAAOqex8PwWNRDWJK51vKmMo6eU0JV&response=".$captcha."&remoteip=".$_SERVER['REMOTE_ADDR']), true);
+
+if($response['success'] == false){
+    echo '<h2>Spam Alert!</h2>';
+    exit();
+}
 
 if(get_magic_quotes_gpc()) {
 	$comments = stripslashes($comments);
