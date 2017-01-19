@@ -1,39 +1,39 @@
 jQuery(document).ready(function(){
-
+	
 	$('#contactform').submit(function(){
-
+	
 		var action = $(this).attr('action');
-
+		
 		$("#message").slideUp(750,function() {
 		$('#message').hide();
-
+		
  		$('#submit')
-			.after('<img src="images/ajax-loader.gif" class="loader1" />')
+			.after('<img src="images/contact-ajax-loader.gif" class="loader" />')
 			.attr('disabled','disabled');
-
-		$.post(action, {
+		
+		$.post(action, { 
 			name: $('#name').val(),
 			email: $('#email').val(),
-			website: $('#website').val(),
+			phone: $('#phone').val(),
 			subject: $('#subject').val(),
 			comments: $('#comments').val(),
-			g-recaptcha-response: $('#g-recaptcha-response').val(),
-			verify: $('#verify').val()
+			verify: $('#verify').val(),
+			g-recaptcha-response: $('#g-recaptcha-response').val()
 		},
 			function(data){
 				document.getElementById('message').innerHTML = data;
 				$('#message').slideDown('slow');
 				$('#contactform img.loader').fadeOut('slow',function(){$(this).remove()});
-				$('#submit').removeAttr('disabled');
+				$('#submit').removeAttr('disabled'); 
 				if(data.match('success') != null) $('#contactform').slideUp('slow');
-
+				
 			}
 		);
-
+		
 		});
-
-		return false;
-
+		
+		return false; 
+	
 	});
-
+	
 });
