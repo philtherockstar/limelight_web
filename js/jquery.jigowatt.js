@@ -17,6 +17,7 @@ jQuery(document).ready(function(){
 			website: $('#website').val(),
 			subject: $('#subject').val(),
 			comments: $('#comments').val(),
+			g-recaptcha-response: $('#g-recaptcha-response').val(),
 			verify: $('#verify').val()
 		},
 			function(data){
