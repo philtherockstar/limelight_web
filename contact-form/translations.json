@@ -38,7 +38,7 @@
 	"form" : {
 		"success" : {
 			"title" : {
-				"en-gb" : "Spiffing! Your details were successfully sent! We'll get back to you soon.",
+				"en-gb" : "Your details were successfully sent. We will contact you shortly!",
 				"en-us" : "Sweet! Your details were successfully sent! We'll get back to you soon.",
 				"es"    : "Si! Sus datos han sido enviadas! Nos pondremos en contacto con usted pronto."
 			},
