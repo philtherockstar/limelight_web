@@ -8,7 +8,7 @@
 			"es"    : "{$1} que está en contacto con sobre {$2} ."
 		},
 		"intro" : {
-			"en-gb" : "Hello, my name's {$1}. I want to talk to you about {$2}.",
+			"en-gb" : "You were send a message from {$1} regarding {$2}.",
 			"en-us" : "Hey, my name's {$1}. I want to talk to you about {$2}.",
 			"es"    : "Hola, mi nombre es {$1}. Quiero hablar con usted acerca de {$2}."
 		},
