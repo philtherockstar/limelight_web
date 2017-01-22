@@ -453,6 +453,11 @@
 		margin-top: 20px;
 		margin-left: 50px;
 		float: left;
+		text-decoration: none;
+	}
+	#phonenumber a,a:visited {
+	   	color: #FFF;
+	   	text-decoration: none;
 	}
 
 	span.blogo {
@@ -2666,10 +2671,12 @@
 		margin-top: 13px;
 		margin-left: 0px;
 		border: 0px solid black;
+		text-decoration: none;
 
 	   }	
 	   a:visited {
 	   	color: #FFF;
+	   	text-decoration: none;
 	   }
 }
 
