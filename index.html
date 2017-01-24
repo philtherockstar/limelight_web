@@ -53,7 +53,7 @@
             <div class="navbar navbar-default navbar-inverse" role="navigation">
                 <div class="container-fluid" id="navfluid">
                     <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigationbar">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -187,7 +187,7 @@
                             data-endspeed="300"
                             data-endeasing="Power1.easeIn"
                             data-captionhidden="on"
-                            style="z-index: 7"><p>Best of Houzz 2015 and 2016</p>
+                            style="z-index: 7"><p>Best of Houzz 2016 and 2017</p>
                         </div>
                     </li>
 					
@@ -221,7 +221,7 @@
                             data-endspeed="300"
                             data-endeasing="Power1.easeIn"
                             data-captionhidden="on"
-                            style="z-index: 7;"><p>that presents a home at its hightest potential<br/>in order to sell quickly<br/>for the most money the market will allow</p>
+                            style="z-index: 7;"><p>that presents a home at its hightest potential<span class="hide-chrome"><br/>in order to sell quickly<br/>for the most money the market will allow</span></p>
                         </div>
                     </li>
 		          </ul>
@@ -1166,7 +1166,7 @@ Read More...  </a>
     
 
     <script src="js/custom.js"></script>
-	<script src="js/jquery.unveilEffects.js"></script>
+	<script src="js/jquery.unveilEffects.min.js"></script>
     <script src="js/jquery.isotope.min.js"></script>
 
 	<script>
@@ -1334,13 +1334,25 @@ Read More...  </a>
       });	//ready
     </script>
 
-    <!-- Video Player o-->
-    <script src="js/jquery.mb.YTPlayer.js"></script>    
-    <script type="text/javascript">
-      (function($) {
-        "use strict"
-          $(".player").mb_YTPlayer();
-        })(jQuery);	
+    <script>
+    jQuery(document).ready(function() {
+      $("#ul.nav li").click(function () {
+        //$( ".navbar-toggle" ).addClass( "collapsed" );
+        console.log('hiya');
+        //alert('hey');
+
+        //$(this).collapse('hide');
+      });
+      if ($(window).height() < 750) {
+        $(".brand-content").hide();
+      }
+      var isChrome = navigator.userAgent.indexOf("Chrome/") > -1;
+
+      if (isChrome) {
+         $('.brand-promotion').hide();
+         $('.hide-chrome').hide();
+      }
+    }); //ready
     </script>
     
 </body>
