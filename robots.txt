@@ -1,0 +1,27 @@
+Disallow: blog-single.html
+Disallow: blog.html
+Disallow:contact.php
+favicon.ico
+Disallow:index-custom-video.html
+Disallow:index-youtube.html
+index.html
+Disallow:index.html.000
+Disallow:index.html.01202017
+Disallow:index.html.with-gallery
+Disallow:indext2.html
+Disallow:indext3.html
+Disallow:indextest.html
+Disallow:landing.html
+Disallow:ll_general_helper.inc
+style.css
+
+assets:
+css
+font
+js
+
+Disallow: /contact-form/
+
+Disallow /demos/
+
+Disallow /slider-images/
