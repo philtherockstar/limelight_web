@@ -34,37 +34,37 @@
 		},
 		"error" : {
 			"title" : {
-				"en-us" : "Something went wrong!",
+				"en-us" : "Something went wrong!"
 			},
 			"required" : {
-				"en-us" : "We need your {$1}.",
+				"en-us" : "We need your {$1}."
 			},
 			"email" : {
-				"en-us" : "Your email address is invalid.",
+				"en-us" : "Your email address is invalid."
 			},
 			"numeric" : {
-				"en-us" : "Your {$1} should only contain numbers",
+				"en-us" : "Your {$1} should only contain numbers"
 			},
 			"honeypot" : {
-				"en-us" : "Please leave the last field empty, we're using it to stop robots using the form.",
+				"en-us" : "Please leave the last field empty, we're using it to stop robots using the form."
 			},
 			"captcha" : {
 				"empty" : {
-					"en-us" : "Please complete the CAPTCHA",
+					"en-us" : "Please complete the CAPTCHA"
 				},
 				"bot" : {
-					"en-us" : "reCAPTCHA thinks you're a bot: {$1}",
+					"en-us" : "reCAPTCHA thinks you're a bot: {$1}"
 				}
 			},
 			"back_link" : {
-				"en-us" : "Go <a href=\"javascript:history.back()\">back a page</a> to correct it.",
+				"en-us" : "Go <a href=\"javascript:history.back()\">back a page</a> to correct it."
 			}
 		},
 		"button_text" : {
-			"en-us" : "Sending...",
+			"en-us" : "Sending..."
 		},
 		"reset" : {
-			"en-us" : "Reset",
+			"en-us" : "Reset"
 		}
 	}
 }
