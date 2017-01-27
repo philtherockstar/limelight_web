@@ -1,0 +1,3 @@
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE image/gif image/png image/jpeg image/x-icon application/pdf application/javascript application/x-javascript text/plain text/html text/css text/x-component text/xml application/json
+</ifmodule>

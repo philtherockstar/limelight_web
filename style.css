@@ -758,6 +758,10 @@
 		width:100%;
 		position:relative;
 	}
+	.tp-banner h1 {
+		color:#fff;
+		text-transform:uppercase;
+	}
 	.tp-banner-fullscreen-container {
 		width:100%;
 		position:relative;
