@@ -602,6 +602,10 @@
 		position: relative;
 		background-color: #F7F7F7;
 	}
+	.feature-wrapper a,a:visited {
+	   	color: #96b91f;
+	   	text-decoration: none;
+	}
 	
 	.feature-img {
 		margin-bottom: -40px;
