@@ -611,7 +611,10 @@
 		margin-bottom: -40px;
 	}
 	
-	
+	a, a:hover, a:visited {
+	   	color: #96b91f;
+	   	text-decoration: none;
+	}
 	/*
 	* 	Slider Revolutions 
 	*	
@@ -2683,7 +2686,7 @@
 		text-decoration: none;
 
 	   }	
-	   a:visited {
+	   #phonenumber a:visited {
 	   	color: #FFF;
 	   	text-decoration: none;
 	   }
