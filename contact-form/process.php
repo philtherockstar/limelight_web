@@ -29,7 +29,7 @@ $options['attachment_dir']      = 'attachments/';                         // Att
 $options['attachment_limit']    = 10;                                     // 10mb is the considered "safe" size
 
 // Generic email options
-//$options['from_address']        = 'info@limelighthomestaging.com';               // Address the email is sent from
+$options['from_address']        = $fdata['email'];               // Address the email is sent from
 //$options['from_name']           = 'Jigobot';                              // Name to attach to the address
 $options['to_addresses']        = array( 'info@limelighthomestaging.com' );               // To: addresse(s), add new array item for more
 //$options['bcc_addresses']       = array( 'you@email.com' );               // BCC: addresse(s), add new array item for more
