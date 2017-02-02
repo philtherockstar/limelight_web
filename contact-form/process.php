@@ -485,7 +485,8 @@ function sendEmailToSiteOwner()
 	$mail->isHTML         = true;
 
 	// from
-	$mail->From           = $options['from_address'];
+	//$mail->From           = $options['from_address'];
+	$mail->From 			= $fdata['email'];
 	$mail->FromName       = $options['from_name'];
 
 	// to
