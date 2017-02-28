@@ -1,0 +1,1267 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="">
+    
+    <META name="keywords" content="home staging,staging,stager,stage,home,homes,houses,staging home for sale,preparing home for sale, staging to sell, staging design, staging professionals, accredited staging professionals,house staging,santa cruz,carmel,monterey,scotts valley,california,aptos,soquel">
+    <title>Limelight Home Staging, Home Staging for Santa Cruz, Aptos, Capitola, Soquel, Live Oak, Los Gatos, Campbell, Scotts Valley, and the San Lorenzo Valley</title>
+
+	<!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- end Google Font -->
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,500,600,700,800,300' rel='stylesheet' type='text/css'>
+    <!-- owl carousel SLIDER -->
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <!-- end awesome icons -->
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <!-- lightbox -->
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <!-- transformation slider -->
+    <link href="css/twentytwenty.css" rel="stylesheet">
+    
+    <!-- Animation Effect CSS -->
+    <link rel="stylesheet" href="css/animation.css">
+    <!-- Main Stylesheet CSS -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="js/html5shiv.js"></script>
+	  <script src="js/respond.min.js"></script>
+	<![endif]-->
+   
+
+	<!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
+	<link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
+
+         <link rel="stylesheet" href="contact-form/assets/styles/select2.css">
+        <link rel="stylesheet" href="contact-form/assets/styles/contact.css">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="contact-form/assets/js/select2.min.js"></script>
+        <script src="contact-form/assets/js/contact.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+</head>
+<body data-spy="scroll" data-offset="25">
+<div class="animationload"><div class="loader">Loading...</div></div> <!-- End Preloader -->
+       
+    <!--/HEADER SECTION -->
+    <header class="header">
+        <div class="container">
+            <div class="navbar navbar-default" role="navigation">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        </button>
+                        <a href="index.html" class="navbar-brand">LIMELIGHT <br> <span class="slogo">HOME STAGING<span></a> 
+
+                    </div><!-- end navbar-header -->
+                    <div id="phonenumber">(831) 708-8081</div> 
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a data-scroll href="#home" class="int-collapse-menu">Home</a></li>
+                        <li><a data-scroll href="#features" class="int-collapse-menu">Why Us</a></li>
+                        <li><a data-scroll href="#testimonials" class="int-collapse-menu">Testimonials</a></li>
+                        <li><a data-scroll href="#works" class="int-collapse-menu">Portfolio</a></li>
+                        <!--<li><a data-scroll href="#services" class="int-collapse-menu">Services</a></li>
+                        <li><a data-scroll href="#about" class="int-collapse-menu">About</a></li>
+                        <li><a data-scroll href="#about" class="int-collapse-menu">FAQs</a></li>-->
+			<li><a data-scroll href="#contact" class="int-collapse-menu">Contact</a></li>
+<!--
+                        <li><a data-scroll href="#team" class="int-collapse-menu">Team</a></li>
+-->
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div><!--/.container-fluid -->
+            </div>
+        </div><!-- end container -->
+    </header><!-- end header -->
+	
+    <div class="brand-promotion">
+				<div class="container visible-lg-block">
+					<div class="media row">
+						<div class="col-sm-4">
+							<div class="brand-content wow fadeIn animated"  style="visibility: visible; -webkit-animation: fadeIn 700ms 300ms;">
+								<i class="fa fa-quote-left fa-4x pull-left"></i>
+								<div class="media-body">							
+									<h2>Within a day, we had 2 offers</h2>
+									<p>and sold at above asking. My realtor was so impressed, she invited many colleagues to tour property.
+									<span class="fa fa-quote-right"></p>
+								</div>
+							</div>						
+						</div>
+						<div class="col-sm-4">
+							<div class="brand-content wow fadeIn animated" style="visibility: visible; -webkit-animation: fadeIn 700ms 400ms;">
+								<i class="fa fa-quote-left fa-4x pull-left"></i>
+								<div class="media-body">							
+									<h2>The Ultimate Professionals</h2>
+									<p>Her artistic design and sense of color makes each home look like it is right out of Architectural Digest Magazine.
+									<span class="fa fa-quote-right"></p>
+								</div>
+							</div>						
+						</div>
+						<div class="col-sm-4">
+							<div class="brand-content wow fadeIn animated"  style="visibility: visible; -webkit-animation: fadeIn 700ms 500ms;">
+							<i class="fa fa-quote-left fa-4x pull-left"></i>
+								<div class="media-body">							
+									<h2>Limelight made the difference</h2>
+									<p>in getting each property sold quickly at top dollar.  Every home that she staged was stunning!
+									<span class="fa fa-quote-right"></p>
+								</div>
+							</div>						
+						</div>
+					</div>
+				</div>
+			</div>
+    <!--/SLIDER SECTION -->
+    <section id="home" class="sliderwrapper clearfix">
+	
+       <div class="tp-banner-container">
+            <div class="tp-banner">
+                <ul>
+       			  <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
+                        <!-- MAIN IMAGE -->
+                        <img src="images/staged-home-in-santacruz-01.jpg"  alt="A home staged in Santa Cruz by Limelight Home Staging"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+        				<div class="tp-dottedoverlay twoxtwo"></div>
+ 
+                        <!-- LAYER NR. 3 -->
+                         <div class="tp-caption rev-video  customin customout start"
+                            data-x="center"
+                            data-hoffset="0"
+                            data-y="140"
+                            data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                            data-speed="1000"
+                            data-start="500"
+                            data-easing="Back.easeInOut"
+                            data-endspeed="300"><hr class="topline"><h2>We Put Homes<br> into the <br> Limelight</h2><hr class="bottomline">
+                        </div>
+    
+                        <!-- LAYER NR. 4 -->
+                         <div class="tp-caption rev-video2 customin customout start"
+                            data-x="center"
+                            data-hoffset="0"
+                            data-y="340"
+                            data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                            data-speed="2200"
+                            data-start="500"
+                            data-easing="Back.easeInOut"
+                            data-endspeed="300"><p> Sell Your Home Fast And <br>At Top Market Value</p>
+                        </div>
+                    </li>
+                    
+                     <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
+                        <!-- MAIN IMAGE -->
+                        <img src="images/staged-condo-in-santacruz-01.jpg"  alt="A condo in Santa Cruz, CA, Staged by Limelight Home Staging"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+        				<div class="tp-dottedoverlay twoxtwo"></div>
+                        
+                        <!-- LAYER NR. 3 -->
+                        <div class="tp-caption rev-video skewfromleft customout"
+                            data-x="center"
+                            data-y="140"
+                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                            data-speed="800"
+                            data-start="1500"
+                            data-easing="Power4.easeOut"
+                            data-endspeed="300"
+                            data-endeasing="Power1.easeIn"
+                            data-captionhidden="on"
+                            style="z-index: 6"><hr class="topline"><h2>Award Winning<br> Home Staging Company</h2><hr class="bottomline">
+                        </div>
+    
+                        <!-- LAYER NR. 4 -->
+                        <div class="tp-caption rev-video2 skewfromright customout"
+                            data-x="center" data-hoffset="0"
+                            data-y="340"
+                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                            data-speed="800"
+                            data-start="1700"
+                            data-easing="Power4.easeOut"
+                            data-endspeed="300"
+                            data-endeasing="Power1.easeIn"
+                            data-captionhidden="on"
+                            style="z-index: 7"><p>Best of Houzz 2016<br/>Best of Houzz 2017</p>
+                        </div>
+                    </li>
+					
+					<li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
+                        <!-- MAIN IMAGE -->
+                        <img src="images/staged-home-in-la-selva-beach.jpg"  alt="Home Staging in La Selva Beach, CA, by Limelight Home Staging"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+        				<div class="tp-dottedoverlay twoxtwo"></div>
+                        
+                        <!-- LAYER NR. 3 -->
+                        <div class="tp-caption rev-video skewfromleft customout"
+                            data-x="center"
+                            data-y="140"
+                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                            data-speed="800"
+                            data-start="1500"
+                            data-easing="Power4.easeOut"
+                            data-endspeed="300"
+                            data-endeasing="Power1.easeIn"
+                            data-captionhidden="on"
+                            style="z-index: 6"><hr class="topline"><h2>Staging Is A<br>High Yielding Investment</h2><hr class="bottomline">
+                        </div>
+    
+                        <!-- LAYER NR. 4 -->
+                        <div class="tp-caption rev-video2 skewfromright customout"
+                            data-x="center" data-hoffset="0"
+                            data-y="340"
+                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                            data-speed="800"
+                            data-start="1700"
+                            data-easing="Power4.easeOut"
+                            data-endspeed="300"
+                            data-endeasing="Power1.easeIn"
+                            data-captionhidden="on"
+                            style="z-index: 7"><p>that presents a home at its hightest potential <br/>in order to sell quickly and for the most money the market will allow</p>
+                        </div>
+                    </li>
+		          </ul>
+		          <div class="tp-bannertimer"></div>
+            </div>
+		</div>
+    </section><!-- end slider-wrapper -->  
+         
+   
+	
+	<section id="features" class="feature-wrapper">
+    	<div class="container">
+		<div data-scroll-reveal="enter from the bottom after 0.3s" class="title text-center" data-scroll-reveal-id="2" data-scroll-reveal-initialized="true" data-scroll-reveal-complete="true">
+                        <h2>Staging in a High Yieling Investment</h2>
+			<p>Home Staging is a high yielding investment that presents a home at its highest potential in order to sell the home quickly for the most money the market will allow</p>
+                        <hr>
+                    </div>
+        	<div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
+            	<div class="widget">
+                	<h3> Limelight's Home Staging Strategy </h3>
+                    <p>What sets Limelight apart is that we won't stage your home according to our own personal tastes. Our stagers work hard to present your home to appeal to the widest range of potential buyers. Before the stage, we will visit the home in person to create a plan that will maximize space, blend colors seamlessly, and make even the most difficult floor plans feel right. The attention of the potential buyer will be drawn to the positive features of your property and drawn away from any possible negative drawbacks the property may have. Our professional expertise is invaluable to our clients as it <i>reduces the risk of price reduction</i> and gives greater opportunity for the property to <i>sell faster and for more</i>!</p>
+                    <div id="accordion-second" class="clearfix">
+                        <div class="accordion" id="accordion2">
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <h3>
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                                <em class="fa fa-plus icon-fixed-width"></em>Why Stage Your Property?
+                              </a>
+                              </h3>
+                            </div>
+                            <div id="collapseOne" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Staging Works! A Staged Home sells faster and for more money because it is so much more appealing to buyers. We have transformed many houses that sat on the market for months with no offers. After being staged by Limelight Home Staging, these properties have gone into escrow within a month and often for more than the asking price. In addition to highlighting positive features of the property and minimizing negative features, Staging helps potential buyers envision themselves in a home and mentally move-in. If a buyer cannot mentally move into a home, they move on instead!
+                              </div>
+                            </div>
+                          </div>
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <h3>
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                                <em class="fa fa-plus icon-fixed-width"></em>Benefits of Home Staging
+                              </a>
+                              </h3>
+                            </div>
+                            <div id="collapseTwo" class="accordion-body collapse">
+                              <div class="accordion-inner">
+<ul>
+  <li>Staged Homes Look Better Than The Competition!</li>
+  <li>Faster Sales Time</li>
+  <li>Higher Sales Price</li>
+
+  <li>Great Listing Tool &amp; Marketing Advantage</li>
+  <li>Buyers view Staged Homes as well-cared for</li>
+  <li>Gain More Referrals and Repeat Business</li>
+</ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <h3>
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+                                <em class="fa fa-plus icon-fixed-width"></em>Benefits of Staging With Limelight Home Staging
+                              </a>
+                              </h3>
+                            </div>
+                            <div id="collapseThree" class="accordion-body collapse">
+                              <div class="accordion-inner">
+<ul>  
+  <li>Excellent Customer Service</li>
+  <li>Fully Insured and Bonded</li>
+  <li>Competitive and Flexible Pricing</li>
+  <li>10% Of All Company Profits Donated to Charity</li>
+</ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <h3>
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+                                <em class="fa fa-plus icon-fixed-width"></em>Don't Leave Equity on the Table!
+                              </a>
+                              </h3>
+                            </div>
+                            <div id="collapseFour" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Realtors should always educate their sellers about the benefits of Home Staging! Limelight Home Staging is a third party expert who is there to help you get your listing in top condition!
+<ul>
+<li>"Studies show that a home can sell up to <u>three times faster</u> when it is Staged." - San Francisco Chronicle</li>
+<li>"Staging speeds up sales in a sluggish market, and can bump up prices 2 percent to 10 percent in a moderate market." - Wall Street Journal</li>
+<li>"When Coldwell Banker Residential Brokerage in Los Altos, Calif., looked at nearly 2,800 properties in eight U.S. cities in 2004, they found that the staged homes, on average, sold in half the time that the non-staged homes did. The sellers with staged homes ended up with 6.3% more than their asking price, on average, while sellers with non-staged homes sold for 1.6% more than the asking price." - USA Today</li>
+</ul>
+                              </div>
+                            </div>
+                          </div> 
+                        </div><!-- end accordion -->
+                    </div><!-- end accordion first -->
+                </div><!-- end widget -->
+            </div><!-- end col-lg-6 -->
+            
+        	<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+            	<div class="widget">
+                	<h3></h3>
+                    <div id="owl-blog" class="owl-carousel">
+                        <div class="blog-carousel">
+                            <div class="entry">
+                                <img src="images/staging-on-the-westside-santa-cruz.jpg" alt="Home Staged by Limelight Home Staging that maximizes floor space in a tight living room" class="img-responsive">
+                            </div><!-- end entry -->
+                            <div class="blog-carousel-header">
+                                <h3>Working with Pre-Existing Colors</h3>
+                                <div class="blog-carousel-meta">
+				  <p>Limelight Home Staging has an expansive inventory and can design around preexisting colors.
+				  Every home can look like a professionally designed home! In the home featured above, before it was staged, the avocado green 
+                  walls were overbearing. Potential buyers could lower their opinion of a house just because of the way it feels in a room! We staged 
+                  the room to tone down the pre-existing color and made it feel sensible and like it was designed professionally. The home owners
+				  saved thousands of dollars by not having to paint to a neutral color.</p>
+                                </div><!-- end blog-carousel-meta -->
+			
+				<!--
+                                    <span><i class="fa fa-calendar"></i> April 01, 2014</span>
+                                    <span><i class="fa fa-comment"></i> <a href="#">03 Comments</a></span>
+                                    <span><i class="fa fa-eye"></i> <a href="#">84 Views</a></span>
+				-->
+				
+                            </div><!-- end blog-carousel-header -->
+                           
+                        </div><!-- end blog-carousel -->
+                        <div class="blog-carousel">
+                            <div class="entry">
+                                <img src="images/home_staging_santa_cruz_county_floor_plan.jpg" alt="House Staged by Limelight Home Staging with unusual floor plan" class="img-responsive">
+                            </div><!-- end entry -->
+                            <div class="blog-carousel-header">
+                                <h3>Making Challenging Floor Plans Sensible</h3>
+                                <div class="blog-carousel-meta">
+				  <p>Only 10% of potential buyers can visualize the potential of a home. Some buyers may be put off if they can't make sense of a challenging floor plan. The designers at Limelight Home Staging are experts at tranforming difficult spaces into functional and sensible spaces. Once Limelight stages your house, buyers won't be wondering how they can use a space, they will see it with their own eyes!</p><p>The property pictured above is a hexagon centered around a fireplace. Before staging, buyers would have a difficult time envisioning how they could live in this unusual property design. After Limelight staged it, the guesswork was over, as soon as the front door was open, everything made perfect sense! 
+                                </div><!-- end blog-carousel-meta -->
+			        <!--	
+                                <div class="blog-carousel-meta">
+                                    <span><i class="fa fa-calendar"></i> April 01, 2014</span>
+                                    <span><i class="fa fa-comment"></i> <a href="#">03 Comments</a></span>
+                                    <span><i class="fa fa-eye"></i> <a href="#">84 Views</a></span>
+                                </div>--><!-- end blog-carousel-meta -->
+                            </div><!-- end blog-carousel-header -->
+                            
+                        </div><!-- end blog-carousel -->     
+                    </div><!-- end owl-blog -->
+                </div><!-- end widget -->
+			</div><!-- end col-lg-6 -->
+		</div><!-- end container -->
+    </section><!-- end grey-wrapper -->
+	
+
+    <!--/ SERVICE SECTION -->
+    <section id="testimonials" class="testimonial-wrapper">
+        <div class="container">
+            <div class="title text-center">
+                <h2>Testimonials</h2>
+                <p>What clients are saying about Limelight Home Staging<br/>(Click on the link to see the full testimony)</p>
+                <hr>
+            </div><!-- end title -->
+
+   <!-- TESTIMONIAL SECTION -->
+
+
+
+
+               <div class="widget">
+                    <div id="accordion-second" class="clearfix">
+                        <div class="accordion" id="accordion3">
+
+          		<div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_1"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+I interviewed several stagers prior to selecting Sarah at Limelight Home Staging. Sarah met and exceeded my expectations. We sold our home for $100,000 over asking price and I know it was due  to her staging.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_1" class="accordion-body collapse">
+                              <div class="accordion-inner">
+I interviewed several stagers prior to selecting Sarah at Limelight Home Staging. She seemed to be the most knowledgeable and thorough. Sarah met and exceeded my expectations. We sold our home for $100,000 over asking price and I know it was due  to her staging. Sarah and her company are professional, detail oriented, and reliable. She completed the job on time and picked up the items several days after I requested. I could not be happier with her professionalism and the outcome her staging produced. Thank you Sarah and Limelight Home Staging!!!!<br/>
+<br/>
+Brian Airoldi
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_2"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Where else can you get a more than 10x return on your investment?
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_2" class="accordion-body collapse">
+                              <div class="accordion-inner">
+The condo that I sold was relatively small at only 1000 ft.² for two bedrooms. I knew from having lived in small places before that how you arrange furniture and decorate can have a big difference on how welcoming and useful a space feels.   I had never had a place staged before I sold it before, so honestly I was a little bit surprised at the cost of staging. However, I went forward knowing that even a small difference on the overall sales price could easily pay for the staging. What I wasn't prepared for was how fantastic the staging made the place look! I was absolutely stunned when I saw the pictures on the listing with everything properly staged. In the end our place ended up selling for $41,000 more than our asking price of $459,000. Even if I only attribute half of that increase to the staging it's still a great deal. Where else can you get a more than 10x return on your investment?
+<br/>
+Bill
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_3"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Two prior attempts at staging the house were totally unsuccessful. Fortunately we found Sarah and Limelight Home Staging.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_3" class="accordion-body collapse">
+                              <div class="accordion-inner">
+I highly recommend Limelight Home Staging to anyone selling their home.  Sarah Meads is a true professional with lots of experience and a talent for a home appear at it’s best. She did a fantastic job for us. We felt that her work increased the price we could ask for our house by many thousands of dollars. Limelight Home Staging played a key role in our decision because the house looked so good after they staged it. Our house was quite old and had an unusual layout. Two prior attempts at staging the house were totally unsuccessful. Fortunately we found Sarah and Limelight Home Staging. With a very short timeframe before the house went on the open market, Sarah stepped in and worked her magic. She and her team made the house much more attractive while demonstrating to buyers how to use the rooms most effectively. Buyers seemed to agree, because we received $121,000 over our asking price, much more than anyone had expected. We would hire Limelight again in a heartbeat. Sarah is very pleasant to work with. She communicated well with us, answering calls quickly, giving us regular updates via email and making numerous accommodations. Also, everyone on her team was courteous and it was obvious that they enjoyed their working environment. I whole-heartedly recommend Sarah and Limelight Home Staging.
+<br/>
+Linda St.John
+                              </div>
+                            </div>
+                          </div><!-- end accordion group -->
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_4"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Sarah is the ultimate professional! Her artistic design and sense of color makes each home look like it is right out of <i>Architectural Digest</i>.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_4" class="accordion-body collapse">
+                              <div class="accordion-inner">
+I have been working with Sarah at Limelight Home Staging for several years now. Sarah the ultimate professional! Her artistic design and sense of color makes each home look like it is right out of Architectural Digest Magazine. Sarah knows how to make an upper end home look like an estate, and a beach cottage like a vacation retreat. Her inventory of furniture is extensive which allows her to be sure you have different decor for different styles of homes. Sarah is always on schedule and on time, and she cleans up so well; you would never know she was there. I enjoy working with Sarah and I highly recommend her.<br/>
+<br/>
+Lauren Spencer
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_5"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i>
+Sarah Meads, with Limelight Home Staging is hands down, the best stager on the Monterey Peninsula!  
+Read More...  </a>
+                            </div>
+                            <div id="collapseTestimonial_5" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Sarah Meads, with Limelight Home Staging is hands down, the best stager on the Monterey Peninsula!  I have worked with her now on staging 3 different homes, and I am convinced that her staging made the difference in getting each one sold quickly at top dollar.  Her professionalism and attention to detail was so much appreciated, and  it was evident that she really loves her work!    Every home that she staged was stunning and she was a pleasure to work with!  I highly recommend her services and I will definitely be using Sarah again!<br/>
+<br/>
+Mary Aguilar, David Lyng
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_6"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> Our house garnered two offers the day of the open house. I have no doubt that Limelight's efforts added to the size of the offers we received.  Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_6" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Our realtors (Stephen and Susan Karon) recommended Limelight.  After searching the Internet for alternative providers, we agreed that Limelight looked completely competent. Then we learned more...they were far more than competent.  Their prices and terms were very reasonable.  The look they imparted to our house impressed us completely.  What an eye they have!
+Our house garnered two offers on the day of the open house.  I have no doubt that Limelight's efforts not only made this happen, but also added to the size of the offers we received to the tune of ten to fifteen times their fee.  What an incredible return on a simple investment.<br/>
+<br/>
+Thank you Limelight!<br/>
+Dr. and Mrs. Robert Steinmez<br/>
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_7"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Sarah has a great eye for what works to sell a home. I particularly appreciated the way she treats her employees and that she is licensed  and bonded.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_7" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Hi Sarah,<br/>
+ I am a Realtor and therefore very particular about who I use for my vendors. When it came time to sell my own home, I chose Sarah and her crew at Limelight. They were professional from top to bottom and really delivered exactly what they had promised.  She has a great eye for what works to sell a home. I particularly appreciated the way she treats her employees and that she is licensed  and bonded. I felt that I would be in good hands through the whole process and I was more than right.  Thanks Sarah. <br/>
+<br/>
+Debbie Calhoun
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_8"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+My home looked like something out of Better Homes and Gardens. Once staged it took less than 1 week to find the couple who purchased it.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_8" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Dear Sarah,<br/>
+<br/>
+It was mid July when I called Lauren Spencer to see about selling my home ASAP!  On August 3rd I moved into Valley Heights Residential, by September 3rd a firm buyer was found for my home and today I received the check finalizing its sale.  Of course selling a home was new to me. I had lived in my home for over 35 years.  I was a advised to patch it up here and there and  once my furnishings were removed I was advised by Lauren to have it "staged".  I had never heard of such a thing, but Lauren was persuasive.  I have to say that once I saw the professional photos on the MLS on line listings --I was really amazed at what Limelight Home Staging did to make my home a dream home.  My little home looked like something out of Better Homes and Gardens, and once staged it took less than one week to find the couple who ultimately purchased it.  It was done tastefully and conservatively, really showing off the best features of my 65 year old home.<br/>
+<br/>
+I cannot thank you enough for your professionalism, and the tasteful touches you added to my home to help make it marketable.<br/>
+<br/>
+Gratefully,<br/>
+Gerrie Ridgway
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_9"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Limelight Home Staging went above and beyond. The finished product was a beautiful home selling in days with multiple offers above list price.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_9" class="accordion-body collapse">
+                              <div class="accordion-inner">
+My sellers chose Sarah Meads Staging Services after attending a full years worth of open houses and seeing her work throughout Santa Cruz County. Sarah was both efficient and accommodating. The actual staging was done in a very short amount of time and she was able to work around our marketing timeline.  Limelight Home Staging went above and beyond. The finished product was a beautiful home that sold in days, with multiple offers, and for above list price. Staging was such an important part of our marketing. We would recommend Sarah's services again.<br/>
+<br/>
+Aimee Thayer-Garcia<br/>
+Bailey Properties
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_10"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Sarah clearly understood the top selling points of the property and what type of buyer would likely be interested.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_10" class="accordion-body collapse">
+                              <div class="accordion-inner">
+First the decision to spend money on staging was important. Although currently inventory is low and the market is picking up, high end properties will lag in the recovery especially in Santa Cruz County. I decided to hire a professional stager to set my property apart by accenting the strengths and minimizing the weaknesses. My goal was to sell quickly and get near the asking price. My agent and I interviewed several Home Stagers and selected Limelight Home Staging. The reason we selected Limelight is because Sarah was very confident with her abilities, her business acumen and she understood my goals. Sarah clearly understood the top selling points of the property and what type of buyer would likely be interested. She developed a plan, made some slight adjustments based on my inputs and seamlessly executed. The result is that the house sold within a couple of weeks of listing and at full asking price. Although many factors led to success, I believe the staging was a significant one. I would highly recommend Limelight Home Staging.<br/>
+Eric Longpre<br/>Santa Cruz, CA 
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_11"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+There is no doubt that Limelight's staging of the property assisted in the quick sale and ultimate higher sales price.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_11" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Sarah showed us examples from her portfolio, and we knew we had found our fit. She worked overtime to ensure that the property was ready for the open house. My clients and I were ecstatic with the final outcome and the home came out beautifully. We received multiple offers in the first three days and sold the house in under a week...at above our asking price! There is no doubt that the staging of the property assisted in the quick sale and ultimate higher sales price. I would highly recommend Sarah for all your staging needs and look forward to working with her again.<br/>
+Joshua Bacorn<br/> Realtor, David Lyng Real Estate 
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_12"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Sarah is THE expert in her field. We asked her to stage a home for us after seeing her wonderful work in other homes.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_12" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Sarah is THE expert in her field. We asked her to stage a home for us after seeing her wonderful work in other homes. Sarah is easy to work with, creative and has the expertise to stage a home to perfection. Our company will use Sarah again and again. We highly recommend her services.<br/>
+Delaine Keeney Moles<br/> Redwood Bay Ventures, Inc. 
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_12"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Prior to having it staged, the house was on the market for six months with no offers. Soon after staging, we received an offer and sold fast!
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_13" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Limelight Staging did an exceptional job staging my property in Monterey. Prior to having it staged, the house was on the market for six months with no offers. I hired Limelight Staging to help get my house sold. Sarah, the owner of Limelight Home Staging, was professional from beginning to end. She presented an estimate, a written professional proposal and the price was very reasonable. She staged the property beyond beautifully. The staging exceeded my expectations. It was elegant when completed. Working with Sarah was easy, smooth and very professional. Soon after staging, the property received and offer and we sold fast!<br/>
+<br/>
+Valerie D.<br/>
+Monterey, CA 
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_14"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+My client chose Limelight because we saw their excellent staging at other listings and they loved the accents that Sarah brought to a home.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_14" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Limelight Home Staging did an excellent job staging my client's home. It sold quickly and for over asking price with multiple offers. My client chose Limelight because we saw their excellent staging at other listings and they loved the accents that Sarah brought to a home. I would highly recommend Sarah Meads at Limelight Home Staging to any seller or listing agent wanting to sell their home quickly and for top dollar!
+                              </div>
+                            </div>
+                          </div><!-- end accordion group -->
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_15"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+My agent reported receiving extremely positive comments from prospective buyers during the open house. In one week we were in escrow!
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_15" class="accordion-body collapse">
+                              <div class="accordion-inner">
+I became the trustee for my uncle's estate and responsible for selling two small homes in Monterey. I selected Limelight Home Staging to stage the properties for two key reasons, they offered the quality I sought at affordable prices. The first house was on the market for just under one week and I received four offers. My agent reported receiving extremely positive comments from prospective buyers concerning the staging during the open house. Within one week the house was in escrow.<br/>
+The second house never reached the market because my back-up buyer from the first house previewed the second house just after it was staged and made an offer on it that day. I firmly believe that the staging sold the homes since staging made the rooms in both homes appear larger than if they were unfurnished. The staging also made the properties look more inviting.<br/>
+I'm very pleased with the quick sale of both houses. I certainly selected the right company for my staging needs. I highly recommend Limelight Home Staging for your next staging project.<br/>
+Leslie D.<br/>
+Monterey, CA 
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_16"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+With Sarah's decorating touch she was able to bring this condo into the twenty first century. It sold within the first week of listing.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_16" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Working with Limelight Home Staging was a terrific experience. Sarah Meads was nothing but professional and diligent in transforming a 30 year old condo I was selling for my mother in Aptos, California. With Sarah's decorating touch she was able to bring this condo into the twenty first century. It sold within the first week of listing.<br/>
+Sarah has a wonderful eye for what is needed to update, and decorate a home. I thoroughly enjoyed her professional manner and lovely attitude. Most definitely I would like to recommend her business to anyone looking for a quality Stager.<br/>
+Leslie<br/> Aptos, CA 
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_17"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+When I saw the results, I was blown away!  I realized that as beautiful as the empty house was, it was only a blank canvas.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_17" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Sarah, I just have to sincerely thank you for being the artist that you are! I got so many ecstatic comments from family and friends when I showed them the house. They, as I, absolutely loved what you did. I'll say it again, you are an artist and I am SO thankful that Mary recommended you to me. If a perspective client ever needs a little "convincing", put him in touch with me!<br/>
+<br/>
+I just have to thank you again for staging my mother's house.  It indeed showed well and sold quickly.  I must be honest.  I really didn't think I needed to stage the house in light of all the modernization improvements that we did.  I thought that it looked just fine!  Than a reoccurring theme kept coming in from my friends in the know: "Get the house staged!"  The real clincher was when my Realtor, Mary Aguilar, told me that staging the house was an investment well worth it and that Limelight Home Staging were the people to do it.<br/>
+<br/>
+I called you to come out and look at the house, still a bit skeptical even though I had the utmost confidence in Mary's professional advice.  You actually "studied" the house and made some suggestions like not having to stage all the bedrooms just the master bedroom.  The more I talked to you, the more confident I felt and decided, "I'll do it."<br/>
+<br/>
+When I saw the results, I was blown away!  I realized that as beautiful as the empty house was, it was only a blank canvas.  You, with your wonderful talent, transformed it into a work of art!  Furniture, wall hangings, table settings, bathrooms presentations, outside furniture, etc. were all placed in such a artistic way that the house was exquisitely transformed.  I was so amused (and wonderfully pleased) when family members came in to see the house who had been there numerous times before the staging.  They just marveled and their jaws dropped.  So, on behalf of the family and myself, thank you so much for all you did for us.<br/>
+<br/>
+Sincerely,<br/>
+<br/>
+Andre de la Torre
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_18"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Once Limelight came thru and did their magic, the house became a home.  Everyone who came thru exclaimed, "I could live here!"
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_18" class="accordion-body collapse">
+                              <div class="accordion-inner">
+I chose Limelight Home Staging after seeing a staged home that was done in a coastal theme last year. I was impressed that it was not over- decorated like some staged listings.  I also received a referral from another stager" recommending Limelight.</br>
+When I walked thru the home prior to listing, it was vacant.  With the furniture moved out, the need for paint touch up and other miscellaneous imperfections became apparent.  I also noticed that the warmth that the home had while occupied was not there.</br>
+Once Limelight came thru and did their magic, the house became a home.  Everyone who came thru exclaimed, "I could live here!"</br>
+Thanks to Sarah and her team, we received 3 offers within 12 days and closed for over asking within 30 days.  I was very impressed with Sarah's professionalism and organizational skills, as well as her decorating skills.  I would recommend Limelight to anyone who wants to use a stager.</br>
+</br>
+Barbara Samson</br>
+Vanguard Realtors
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_19"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Sarah staged the house quickly and offers started coming in. We ultimately sold the property at a price we were happy with!
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_19" class="accordion-body collapse">
+                              <div class="accordion-inner">
+We originally put our vacation home on the market with our own furniture. It didn't generate much interest so at the advice of our agent we engaged Limelight to turn our home into a cozy beach retreat. Sarah had a nice collection of different furniture options at a reasonable cost.  She staged the house quickly and offers started coming in. We ultimately sold the property at a price we were happy with.<br/>
+<br/>
+Sam and Susan<br/> Aptos
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_20"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+If you want an exceptional, professional and beautiful space to show potential buyers, use Limelight Home Staging.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_20" class="accordion-body collapse">
+                              <div class="accordion-inner">
+September 21, 2015<br/>
+<br/>
+Living in Seattle and listing a condo for sale in Santa Cruz is difficult, if not impossible! Three states away, I needed someone to handle my property, prepare it for sale, and trust that the job would be professional, and beautiful. Sarah Meads, owner of Limelight Home Staging was the perfect solution! She visited the property, prepared a thorough plan to stage the entire property, including the deck, and emailed me a proposal. The entire process was seamless and we happily chose her company. The presentation was elegant, provided a lovely set of photos for the internet, and impressed all who toured the property. Within a day, we had 2 offers and sold at an above asking price. My realtor was so impressed, she invited many colleagues to tour the property. I give Limelight the highest possible recommendation for home staging. If you want an exceptional, professional and beautiful space to show potential buyers, use Limelight Home Staging.<br/>
+Edith Keech<br/>
+Auburn WA
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_21"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+The property sold in just 11 days for full asking price! I have no doubt that your artful staging did the trick.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_21" class="accordion-body collapse">
+                              <div class="accordion-inner">
+December 16, 2014<br/>
+<br/>
+
+
+Dear Sarah:<br/>
+<br/>
+Just wanted to drop you a note to tell you how very much we appreciated your professional staging service on our recent project. We are delighted to tell you that the property sold in just 11 days for full asking price! I have no doubt that your artful staging did the trick.<br/>
+<br/>
+During the showings we received numerous compliments on the look and feel of the home. I interviewed three different staging companies and found your quick response, professional yet personal presentation to be the best. After meeting with you, I checked out your website which answered any additional questions. You worked with me on a timeline that was amenable to me and the real estate agent. <br/>
+<br/>
+On the agreed upon day to stage, you and your team arrived within the given window and proceeded quickly to transform an empty dated space into an updated inviting home. The following day you returned as promised and completed important details like coordinated towels, linens, and attractive decorative items. I had several hours during the open houses to enjoy the end result. <br/>
+<br/>
+Once the property went into escrow, I contacted Limelight Home Staging to arrange “destaging”. Once again, the timing for that was coordinated for our convenience.<br/>
+<br/>
+I will utilize Limelight Home Staging again without hesitation. If you have future clients that need a personal recommendation, do not hesitate to give them my contact information. As a business owner for over 15 years, I respect and appreciate your level of customer service. Sadly, these days amazing service is rare.<br/>
+<br/>
+Thank you again, Sarah. You are the best!!!<br/>
+<br/>
+Sincerely,<br/>
+<br/>
+
+Pamela Troia
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_22"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+She was professional, accommodating and I can honestly say that her staging really made the home come alive!
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_22" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Sarah Meads with Limelight Home Staging was very responsive to my request for a staging bid on my Los Gatos listing that I was preparing for market. When she went to the home to bid the job it was full of tradespeople getting it repaired and painted. Undaunted she measured the rooms and gave suggestions to stage and market the home effectively. She wasn't the least expensive bid received but you know the old axiom of "You get what you pay for", she was worth every penny! She was professional, accommodating and worked around a schedule that was tight at best. I am truly grateful for her efforts and I can honestly say that her staging really made the home come alive!<br/>
+Thanks again,<br/>
+Suzanne Hood, Realtor, SRES<br/>
+Coldwell Banker Carl Conelly Realtors<br/>
+Boulder Creek, CA 95006 
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonial_23"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+The house sold within 3 days of being listed and the buyers were very interested in all the furniture that you had used to achieve the look.
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonial_23" class="accordion-body collapse">
+                              <div class="accordion-inner">
+Sarah,<br/>
+The staging looks great! Thank you for all your hard work. The fact that you had the "ASP" designation was a big plus for me in making the decision to use Limelight Home Staging to meet my clients staging needs. Your consultation was very helpful to all parties included. It helped us determine how we wanted to stage the house and what type of look we wanted to achieve. In the end, I knew your work had been successful for two reasons: One, the house sold within 3 days of being listed and two, the buyers were very interested in all the furniture that you had used to achieve the look.<br/>
+Thanks again for all your help.<br/>
+Brian R. Tanger<br/> Realtor, Referral Realty 
+
+                              </div>
+                            </div>
+                          </div> <!-- end accordion group -->
+
+<!--
+                          <div class="accordion-group">
+                            <div class="accordion-heading">
+                              <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseTestimonialOne"><i class="fa fa-quote-left fa-2x icon-fixed-width"></i> 
+Read More...  </a> 
+                            </div>
+                            <div id="collapseTestimonialOne" class="accordion-body collapse">
+                              <div class="accordion-inner">
+
+                              </div>
+                            </div>
+                          </div>--> <!-- end accordion group -->
+
+                        </div><!-- end accordion -->
+                    </div><!-- end accordion first -->
+                </div><!-- end widget -->
+        </div> <!-- end container -->
+    </section> <!-- end services -->
+            
+    
+    
+    <!--/ PORTFOLIO SECTION -->     
+    <section id="works" class="dark-wrapper">
+        <div class="container">
+              <div class="title text-center">
+                <h2>Portfolio</h2>
+                <p>View some transformed living spaces and an image gallery from properties staged by Limelight Home Staging</p>
+                <hr>
+              </div><!-- end title -->
+                 
+              <div class="transnote">
+		<h3>Transformations</h3>
+                <p>Click and drag the slider at the center of the photo to see the transformation of each room.</p>
+              </div>
+              <div class="row transformation">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div id="transformation_01">
+                    <img src="images/staged-home-03-before.jpg" alt="Before image of a condo staged in Santa Cruz" class="img-responsive">
+                    <img src="images/staged-home-03-after.jpg" alt="After image of a condo staged in Santa Cruz" class="img-responsive">
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div id="transformation_02">
+                    <img src="images/staged-home-02-before.jpg" alt="Before image of a home staged in Santa Cruz" class="img-responsive">
+                    <img src="images/staged-home-02-after.jpg" alt="Before image of a home staged in Santa Cruz" class="img-responsive">
+                  </div>
+                </div>
+              </div>
+                 
+              <div class="row transformation">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div id="transformation_03">
+                    <img src="images/staged-home-04-before.jpg" alt="" class="img-responsive">
+                    <img src="images/staged-home-04-after.jpg" alt="" class="img-responsive">
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div id="transformation_04">
+                    <img src="images/staged-home-05-before.jpg" alt="" class="img-responsive">
+                    <img src="images/staged-home-05-after.jpg" alt="" class="img-responsive">
+                  </div>
+                </div>
+              </div>
+
+              <div class="row transformation">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div id="transformation_05">
+                    <img src="images/staged-home-07-before.jpg" alt="" class="img-responsive">
+                    <img src="images/staged-home-07-after.jpg" alt="" class="img-responsive">
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div id="transformation_06">
+                    <img src="images/staged-home-06-before.jpg" alt="" class="img-responsive">
+                    <img src="images/staged-home-06-after.jpg" alt="" class="img-responsive">
+                  </div>
+                </div>
+              </div>
+
+              <div class="row transformation">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div id="transformation_07">
+                    <img src="images/staged-home-08-before.jpg" alt="" class="img-responsive">
+                    <img src="images/staged-home-08-after.jpg" alt="" class="img-responsive">
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div id="transformation_08">
+                    <img src="images/staged-home-01-before.jpg" alt="" class="img-responsive">
+                    <img src="images/staged-home-01-after.jpg" alt="" class="img-responsive">
+                  </div>
+                </div>
+              </div>
+                 
+                 
+              <div class="transnote">
+                <h3>Image Gallery</h3>
+                <p>To view the galleries, hover over an image and click on the plus (+) sign</p>
+              </div>
+                 
+				<div class="norow">
+					<div class="masonry_wrapper" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="item entry item-h2 transformations print">
+                        	<img src="images/web-photo-1.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a id="gallery-01" rel="bookmark" href="#gallery-01"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                            </div><!-- end hovereffect -->
+                        </div>
+
+                        <div class="item entry item-h2 transformations print">
+                            <img src="images/web-photo-2.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a id="gallery-02" rel="bookmark" href="#gallery-02"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                            </div><!-- end hovereffect -->
+                        </div>
+ 
+                        <div class="item entry item-h2 transformations print">
+                            <img src="images/web-photo-3.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a id="gallery-03" rel="bookmark" href="#gallery-03"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                            </div><!-- end hovereffect -->
+                        </div>
+
+                        <div class="item entry item-h2 transformations print">
+                            <img src="images/web-photo-4.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a id="gallery-04" rel="bookmark" href="#gallery-04"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                            </div><!-- end hovereffect -->
+                        </div>
+
+                        <div class="item entry item-h2 transformations print">
+                            <img src="images/web-photo-5.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a id="gallery-05" rel="bookmark" href="#gallery-05"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                            </div><!-- end hovereffect -->
+                        </div>
+
+
+                        <div class="item entry item-h2 transformations print">
+                            <img src="images/web-photo-6.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a id="gallery-06" rel="bookmark" href="#gallery-06"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                            </div><!-- end hovereffect -->
+                        </div>
+                                              
+				</div><!-- end portfolio-masonry -->
+			</div><!-- end row -->      
+        </div> <!-- end Container-->      
+    </section><!-- end work -->
+    
+    <!--/ CONTACT AND MAP SECTION -->  
+   <section id="contact" class="contact-wrapper">
+        <div class="title text-center">
+                <h2>Contact Us</h2>
+                <p>HOW CAN WE ASSIST YOU?</p>
+                <hr>
+        </div><!-- end title -->
+        <div class="contact_tab text-center">
+                    <!--
+                    <ul id="myTab" class="container text-center nav nav-tabs" role="tablist">
+                        <li class="active"><a href="#tab1" role="tab" data-toggle="tab">Contact Details</a></li>
+                        <li><a href="#tab2" role="tab" data-toggle="tab">Location Maps</a></li>
+                    </ul>
+                -->
+           <div id="myTabContent" class="tab-content">
+                    <div class="tab-pane fade in active" id="tab1">
+                        <div class="container">
+                        <p>Put your home in the Limelight! Please fill out the form below and we will get in touch with you shortly.</p>
+                        <form action="contact-form/process.php" enctype="multipart/form-data" method="POST" name="contact" id="contact" class="ucf" data-scroll-reveal="enter from the bottom after 0.4s">
+                        <div class="message"></div>
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                    <input type="text" name="name" id="name" class="form-control" placeholder="Name">
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                    <input type="text" name="email" id="email" class="form-control" placeholder="Email Address">
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                    <input type="text" name="subject" id="subject" class="form-control" placeholder="Subject">
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <textarea class="form-control" name="message" id="message" rows="6" placeholder="Message"></textarea>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+
+                                <!-- Google reCAPTCHA -->
+                                <!-- change YOUR_SITE_KEY with your google recaptcha key -->
+                                <!-- https://developers.google.com/recaptcha/docs/start -->
+                                <div id="g-recaptcha" class="g-recaptcha" data-sitekey="6LeKNhIUAAAAAAahx9PgsqPMIxzGFsufgFwAtir8" data-expired-callback="recaptchaCallback"></div>
+                                <noscript>
+                                        <div style="width: 302px; height: 352px;margin-bottom:20px;margin-left:100px;float:left">
+                                                <div style="width: 302px; height: 352px; position: relative;">
+                                                        <div style="width: 302px; height: 352px; position: absolute;">
+                                                                <!-- change YOUR_SITE_KEY with your google recaptcha key -->
+                                                                <iframe src="https://www.google.com/recaptcha/api/6LeKNhIUAAAAAAahx9PgsqPMIxzGFsufgFwAtir8" style="width: 302px; height:352px; border-style: none; ">
+                                                                </iframe>
+                                                        </div>
+                                                        <div style="width: 250px; height: 80px; position: absolute; border-style: none; bottom: 21px; left: 25px; margin: 0px; padding: 0px; right: 25px;">
+                                                                <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 80px; border: 1px solid #c1c1c1; margin: 0px; padding: 0px; resize: none;"></textarea>
+                                                                                                                        </div>
+                                                </div>
+                                        </div>
+                                </noscript>
+
+                                <!-- honeypot -->
+                                                <hidden class="field" type="text" name="honey" id="honey">
+
+                                <button type="submit" class="button primary">Send details</button>
+
+                        </form>
+                        </div> <!-- End Container -->
+                    </div><!-- End Tab Pane -->
+            
+                            <!-- /Google Map -->     
+                  <div class="tab-pane fade" id="tab2">
+                   <div id="map"></div>
+                  </div>   
+            </div><!-- /end my tab content -->  
+        </div><!-- /contact_tab -->  
+    
+        <div class="container">
+            <div class="title text-center">
+                <div class="clearfix"></div>
+
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="contact-box" data-scroll-reveal="enter from the bottom after 0.6s">
+                        <a title="" href="#"><i class="fa fa-envelope-o aligncenter"></i></a>
+                        <h2>INFO@LIMELIGHTHOMESTAGING.COM</h2>
+                    </div>
+                </div>
+        
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="contact-box" data-scroll-reveal="enter from the bottom after 0.6s">
+                        <a title="" href="#"><i class="fa fa-map-marker aligncenter"></i></a>
+                        <h2>Limelight Home Staging<br/>Scotts Valley, CA</h2>
+                    </div>
+                </div>
+        
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="contact-box"  data-scroll-reveal="enter from the bottom after 0.6s">
+                         <a title="" href="#"><i class="fa fa-phone aligncenter"></i></a>
+                        <h2>(831) 708-8081</h2>
+                    </div>
+                </div>
+            </div> <!-- end title -->
+        </div><!-- end container -->
+        
+    </section><!--/ Contact End -->  
+        
+    <!--/ FOOTER SECTION-->  
+    <section id="footer" class="footer-wrapper text-center">
+        <div class="container">
+            <div class="title text-center" data-scroll-reveal="enter from the bottom after 0.5s">
+               <div class="aligncenter">     
+				  <!--
+                  <a href="index.html" class="navbar-brand">LIMELIGHT <br> <span class="slogo">HOME STAGING <span></a>
+                
+                    <div class="socialFooter">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                        
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                
+                        
+                      
+                        <a href="#"><i class="fa fa-flickr"></i></a>
+                        <a href="#"><i class="fa fa-pinterest"></i></a>
+                       
+                        <a href="#"><i class="fa fa-youtube"></i></a>
+                   
+                    
+                    </div>
+                     -->
+               		<!-- don't removed this as we are providing it for free -->
+    	<p>Designed by © 2015 <a href="http://www.createwebsite.net">Create Website</a></p>
+                <a data-scroll-reveal="enter from the bottom after 0.3s" href="#home"><i class="fa fa-angle-up"></i></a>
+            </div>    <!-- end title -->
+        </div>  <!-- end container -->
+    </section><!--/ Footer  End --> 
+     
+    <!-- SECTION CLOSED -->
+    <!--
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>  
+    -->
+    <!--
+    <script src="js/jquery.js"></script>
+-->
+    <script src="js/bootstrap.js"></script>
+    <script src="js/smooth-scroll.js"></script>
+    <script src="js/jquery.parallax-1.1.3.js"></script>
+    <script src="js/jquery.easypiechart.min.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <!--
+	<script src="js/jquery.jigowatt.js"></script>
+-->
+    <script src="js/custom.js"></script>
+	<script src="js/jquery.unveilEffects.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+	<script>
+		(function ($) {
+			var $container = $('.masonry_wrapper'),
+				colWidth = function () {
+					var w = $container.width(), 
+						columnNum = 1,
+						columnWidth = 0;
+					if (w > 1200) {
+						columnNum  = 3;
+					} else if (w > 900) {
+						columnNum  = 3;
+					} else if (w > 600) {
+						columnNum  = 2;
+					} else if (w > 300) {
+						columnNum  = 1;
+					}
+					columnWidth = Math.floor(w/columnNum);
+					$container.find('.item').each(function() {
+						var $item = $(this),
+							multiplier_w = $item.attr('class').match(/item-w(\d)/),
+							multiplier_h = $item.attr('class').match(/item-h(\d)/),
+							width = multiplier_w ? columnWidth*multiplier_w[1]-4 : columnWidth-4,
+							height = multiplier_h ? columnWidth*multiplier_h[1]*0.5-4 : columnWidth*0.5-4;
+						$item.css({
+							width: width,
+							height: height
+						});
+					});
+					return columnWidth;
+				}
+							
+				function refreshWaypoints() {
+					setTimeout(function() {
+					}, 1000);   
+				}
+							
+				$('nav.portfolio-filter ul li a').on('click', function() {
+					var selector = $(this).attr('data-filter');
+					$container.isotope({ filter: selector }, refreshWaypoints());
+					$('nav.portfolio-filter ul li a').removeClass('active');
+					$(this).addClass('active');
+					return false;
+				});
+					
+				function setPortfolio() { 
+					setColumns();
+					$container.isotope('reLayout');
+				}
+		
+				isotope = function () {
+					$container.isotope({
+						resizable: true,
+						itemSelector: '.item',
+						masonry: {
+							columnWidth: colWidth(),
+							gutterWidth: 0
+						}
+					});
+				};
+			isotope();
+			$(window).smartresize(isotope);
+		}(jQuery));
+	</script>
+
+    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+        <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+        <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+        
+		<script type="text/javascript">
+			var revapi;
+			jQuery(document).ready(function() {
+			revapi = jQuery('.tp-banner').revolution(
+			{
+				delay:9000,
+				startwidth:1170,
+				startheight:500,
+				hideThumbs:10,
+				fullWidth:"off",
+				fullScreen:"on",
+				fullScreenOffsetContainer: ""
+			 });
+		   });	//ready
+		</script>
+		
+		
+    
+    <!-- Animation Scripts-->
+    <script src="js/scrollReveal.js"></script>
+    <script>
+            (function($) {
+            "use strict"
+                window.scrollReveal = new scrollReveal();
+            })(jQuery);
+    </script>
+    
+    <!-- Portofolio Pretty photo JS -->       
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript">
+        (function($) {
+            "use strict";
+            jQuery('a[data-gal]').each(function() {
+                jQuery(this).attr('rel', jQuery(this).data('gal'));
+            });  	
+            jQuery("a[data-gal^='prettyPhoto']").prettyPhoto({animationSpeed:'slow',slideshow:false,overlay_gallery: false,theme:'light_square',social_tools:false,deeplinking:false});
+        })(jQuery);
+    </script>
+    <script type="text/javascript">
+       jQuery(document).ready(function() {
+            var api_images =  ['images/web-photo-1-2.jpg','images/web-photo-1-3.jpg','images/web-photo-1-4.jpg','images/web-photo-1-5.jpg','images/web-photo-1-6.jpg','images/web-photo-1-7.jpg','images/web-photo-1-8.jpg','images/web-photo-1-9.jpg'];
+            $("#gallery-01").click(function() {
+              $.prettyPhoto.open(api_images);
+	    });
+      });	//ready
+        jQuery(document).ready(function() {
+            var api_images =  ['images/web-photo-2-2.jpg','images/web-photo-2-3.jpg','images/web-photo-2-4.jpg','images/web-photo-2-5.jpg','images/web-photo-2-6.jpg','images/web-photo-2-7.jpg'];
+            $("#gallery-02").click(function() {
+              $.prettyPhoto.open(api_images);
+        });
+      });   //ready
+         jQuery(document).ready(function() {
+            var api_images =  ['images/web-photo-3-2.jpg','images/web-photo-3-3.jpg','images/web-photo-3-4.jpg','images/web-photo-3-5.jpg'];
+            $("#gallery-03").click(function() {
+              $.prettyPhoto.open(api_images);
+        });
+      });   //ready
+             jQuery(document).ready(function() {
+            var api_images =  ['images/web-photo-4-2.jpg','images/web-photo-4-3.jpg','images/web-photo-4-4.jpg','images/web-photo-4-5.jpg','images/web-photo-4-6.jpg','images/web-photo-4-7.jpg','images/web-photo-4-8.jpg','images/web-photo-4-9.jpg'];
+            $("#gallery-04").click(function() {
+              $.prettyPhoto.open(api_images);
+        });
+      });   //ready
+       jQuery(document).ready(function() {
+            var api_images =  ['images/web-photo-5-2.jpg','images/web-photo-5-3.jpg','images/web-photo-5-4.jpg'];
+            $("#gallery-05").click(function() {
+              $.prettyPhoto.open(api_images);
+        });
+      });   //ready
+       jQuery(document).ready(function() {
+            var api_images =  ['images/web-photo-6-2.jpg','images/web-photo-6-3.jpg','images/web-photo-6-4.jpg','images/web-photo-6-5.jpg'];
+            $("#gallery-06").click(function() {
+              $.prettyPhoto.open(api_images);
+        });
+      });   //ready
+    </script>
+          
+    <script src="js/jquery.event.move.js"></script>
+    <script src="js/jquery.twentytwenty.js"></script>
+    <script type="text/javascript">
+      jQuery(document).ready(function() {
+        $(window).load(function() {
+          $("#transformation_01").twentytwenty();
+          $("#transformation_02").twentytwenty();
+          $("#transformation_03").twentytwenty();
+          $("#transformation_04").twentytwenty();
+          $("#transformation_05").twentytwenty();
+          $("#transformation_06").twentytwenty();
+          $("#transformation_07").twentytwenty();
+          $("#transformation_08").twentytwenty();
+        });
+      });	//ready
+    </script>
+
+    <!-- Video Player o-->
+    <script src="js/jquery.mb.YTPlayer.js"></script>    
+    <script type="text/javascript">
+      (function($) {
+        "use strict"
+          $(".player").mb_YTPlayer();
+        })(jQuery);	
+    </script>
+    
+</body>
+</html>
