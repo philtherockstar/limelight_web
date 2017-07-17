@@ -1,16 +1,13 @@
 User-agent: *
-Disallow: blog-single.html
-Disallow: blog.html
 Disallow:contact.php
-Disallow:index-custom-video.html
-Disallow:index-youtube.html
-Disallow:index.html.000
-Disallow:index.html.01202017
-Disallow:index.html.with-gallery
-Disallow:indext2.html
-Disallow:indext3.html
-Disallow:indextest.html
 Disallow:landing.html
 Disallow:ll_general_helper.inc
 Disallow: /demos/
+Disallow: /dev/
 Disallow: /slider-images/
+Disallow: /About-Limelight-Home-Staging/
+Disallow: /DIY-Home-Staging/	
+Disallow: /History-Of-Home-Staging/
+Disallow: /Santa-Cruz-Home-Staging-Transformations/
+Disallow: /The-Power-Of-Home-Staging/
+Disallow: /Why-Stage-Your-Home-For-Sale/
