@@ -1,4 +1,8 @@
 <ifmodule mod_deflate.c>
 AddOutputFilterByType DEFLATE image/gif image/png image/jpeg image/x-icon application/pdf application/javascript application/x-javascript text/plain text/html text/css text/x-component text/xml application/json
 </ifmodule>
-Header set Cache-Control "max-age=86400, public"
+RewriteCond %{HTTP_HOST} ^limelighthomestaging\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.limelighthomestaging\.com$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^jobs$ "http\:\/\/www\.limelighthomestaging\.com\/Home\-Staging\-Jobs\/#features" [NE,R=301,L]
